@@ -4,3 +4,12 @@
 [submodule "Simulation/Vendor/glad"]
 	path = Simulation/Vendor/glad
 	url = https://github.com/Dav1dde/glad.git
+[submodule "Simulation/Vendor/glfw"]
+	path = Simulation/Vendor/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "Simulation/Vendor/glm"]
+	path = Simulation/Vendor/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "Simulation/Vendor/stb"]
+	path = Simulation/Vendor/stb
+	url = https://github.com/nothings/stb.git
