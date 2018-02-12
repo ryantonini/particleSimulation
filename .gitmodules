@@ -1,9 +1,6 @@
 [submodule "Simulation/Vendor/bullet3"]
 	path = Simulation/Vendor/bullet3
 	url = https://github.com/bulletphysics/bullet3.git
-[submodule "Simulation/Vendor/glad"]
-	path = Simulation/Vendor/glad
-	url = https://github.com/Dav1dde/glad.git
 [submodule "Simulation/Vendor/glfw"]
 	path = Simulation/Vendor/glfw
 	url = https://github.com/glfw/glfw.git
