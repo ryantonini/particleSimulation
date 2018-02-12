@@ -10,3 +10,7 @@
 [submodule "Simulation/Vendor/stb"]
 	path = Simulation/Vendor/stb
 	url = https://github.com/nothings/stb.git
+[submodule "Simulation/Vendor/glad"]
+	path = Simulation/Vendor/glad
+	url = https://github.com/Dav1dde/glad.git
+	branch = c
